@@ -1,0 +1,20 @@
+.main-header {
+  text-align: center;
+  text-transform: capitalize;
+  background-color: rgb(84, 17, 218);
+  font-size: 1.8em;
+  font-family: "Times New Roman", Times, serif;
+  color: aliceblue;
+}
+
+.art-header {
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(84, 17, 218);
+}
+
+.container {
+  text-align: justify;
+  text-indent: 1em;
+  color: rgb(84, 17, 218);
+}
